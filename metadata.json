@@ -1,0 +1,6 @@
+{
+  "name": "HS Collection - Pakistani Fashion & Accessories",
+  "description": "Premier Pakistani luxury fashion and accessories online boutique featuring embroidered festive pret, bridal couture, unstitched lawn, heritage Kundan jewelry, handcrafted khussas, and bespoke evening clutches with worldwide delivery and Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
